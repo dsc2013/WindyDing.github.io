@@ -1,5 +1,5 @@
 ---
-title: Why Blog
+title: 有幸为人 不虚此生
 layout: post
 ---
 
