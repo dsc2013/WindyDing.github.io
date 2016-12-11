@@ -2,7 +2,7 @@
 title: 丁世昌的博客
 email: scdingwork@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  丁世昌的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://windyding.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
